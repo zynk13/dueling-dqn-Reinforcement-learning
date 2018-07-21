@@ -1,6 +1,3 @@
-"""
-Gym file for the bebop drone for active face frontalization
-"""
 import sys
 sys.path.append("/home/aravind/Documents/Lineplot/automated_line_plot/script")
 sys.path.append("/home/aravind/Documents/Lineplot/automated_line_plot/script/image-prop")
